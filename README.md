@@ -1,1 +1,2 @@
 # four-bit-adder
+This is the code fo a Binary Adder-Subtractor, which is capable of both the addition and subtraction of binary numbers in one circuit itself. The operation is performed depending on the binary value the control signal holds. It is one of the components of the ALU (Arithmetic Logic Unit). In order to build it you need to have knowledge of half adder, full adder and four bit adder (which are implemented in the design code).
